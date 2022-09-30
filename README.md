@@ -1,4 +1,4 @@
-<h2>Hi there👋! I'm Miguel Ángel</h2>
+<h2>Hi there👋! I'm Miguel Ángel Rojas</h2>
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -16,8 +16,6 @@
 - 🔧 &nbsp; Vite | TypeScript | Firebase | Testing
 
 <br/>
-
-[![MiguelRojass GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelRojass&show_icons=true)](https://github.com/MiguelRojass)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
